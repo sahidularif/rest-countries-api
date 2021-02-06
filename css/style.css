@@ -1,0 +1,37 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    font-size: 18px;
+   
+}
+.container{
+    margin: 0 auto;
+    
+}
+
+input[type="text"]{
+    width: 100%;
+}
+#country-name div{
+    width: 270px;
+    height: 150px;
+    margin-left: 5px;
+    border-radius: 10px;
+    background-color:turquoise;
+    margin-top: 5px;
+}
+#country-name{
+    margin: 0 auto;
+}
+
+#country-name div:hover{
+   background-color:whitesmoke;
+    
+}
+.country{
+    padding: 10px;
+}
+#country-div img{
+    width: 150px;
+}
+
